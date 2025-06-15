@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sehrish Zarin</h1>
 <h3 align="center">I'm a Full-Stack Developer and a UX designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehrishzarin" alt="sehrishzarin" /></a> </p>
-
 - 🌱 I’m currently learning **react, python and web hosting.**
 
 - 📫 How to reach me **zarinsehrish@gmail.com**
