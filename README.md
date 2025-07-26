@@ -1,49 +1,39 @@
-
+<!-- Optional banner image -->
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/assets/banner.png" alt="Welcome Banner" width="100%" />
+  <img src=https://i.ibb.co/FbY27Lj2/Screenshot-2025-07-26-125111.png" alt="Screenshot-2025-07-26-125111" border="0">" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm Sehrish Zarin</h1>
-<h3 align="center">Full-Stack Developer | UX Designer | Dreamer with a Dev Plan</h3>
+<h1 align="center">Sehrish Zarin</h1>
+<h3 align="center">Full-Stack Developer · UX Designer</h3>
 
 <p align="center">
-  <em>I blend logic with design – building clean user experiences and powerful apps.</em>
-</p>
-
----
-
-### 🛠️ What I Do
-- 🖥️ I build full-stack web apps with **MERN Stack**
-- 🎨 I design engaging interfaces in **Figma**
-- 🧠 I’m learning **Python**, **React hosting** & exploring **backend logic**
-- 💬 Always up for a good dev convo or coffee ☕ (virtually, sadly)
-
----
-
-### 🧩 Projects I'm Proud Of
-- 🚀 **LearnIn** – An ed-tech platform with quizzes, Firebase storage, and user auth
-- 📚 **CodeBook** – Collaborative GitHub project for devs in GSSOC
-- 🧑‍🎓 **AccuPrice UI** – UI/UX for a smart pricing tool (Figma prototype)
-
----
-
-### 📬 Reach Me At
-<p align="left">
-  <a href="mailto:zarinsehrish@gmail.com">📧 zarinsehrish@gmail.com</a><br>
-  <a href="https://linkedin.com/in/sehrish-zarin">🔗 LinkedIn</a><br>
-  <a href="https://www.leetcode.com/sehrishzarin45">🧠 LeetCode</a>
+  Passionate about building intuitive web experiences and thoughtful digital products.
 </p>
 
 ---
 
-### 🌈 Little More About Me
-- 🐣 I started coding with curiosity and stayed because of creativity.
-- 📍 From Islamabad, building projects & sipping black tea since forever.
-- ✨ Believer in clean code, clean UI, and clean sleep schedules (trying).
+### What I Do
+
+- Frontend development with React & UI/UX in Figma  
+- Backend development with Node.js, Express, MongoDB  
+- Currently learning Python and exploring web hosting, AWS, Docker
+- Focused on clean design and meaningful interactions  
 
 ---
 
-<!-- Aesthetic footer or quote image -->
+### Let’s Connect
+
+- Email: [zarinsehrish@gmail.com](mailto:zarinsehrish@gmail.com)  
+- LinkedIn: [Sehrish Zarin](https://linkedin.com/in/sehrish-zarin)  
+- LeetCode: [@sehrishzarin45](https://www.leetcode.com/sehrishzarin45)  
+
+---
+
+### A Little More About Me
+
+From Islamabad, I blend logic with design and aim to build products that are simple, accessible, and user-focused. Outside of code, you’ll find me sketching wireframes, reading about tech careers, or fixing a messy CSS layout.
+
+<!-- Optional footer quote or image -->
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/assets/footer-quote.png" width="60%" />
+  <img src="https://github.com/your-username/your-repo-name/assets/footer.png" width="60%" />
 </p>
