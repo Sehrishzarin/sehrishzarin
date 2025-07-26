@@ -1,6 +1,6 @@
 <!-- Optional banner image -->
 <p align="center">
-  <img src=https://i.ibb.co/FbY27Lj2/Screenshot-2025-07-26-125111.png" alt="Screenshot-2025-07-26-125111" border="0">" alt="Banner" width="100%" />
+  <img src=https://i.ibb.co/FbY27Lj2/Screenshot-2025-07-26-125111.png" alt="Screenshot-2025-07-26-125111" border="0"/>
 </p>
 
 <h1 align="center">Sehrish Zarin</h1>
