@@ -1,6 +1,6 @@
 <!-- Optional banner image -->
 <p align="center">
-  <img src=https://i.ibb.co/FbY27Lj2/Screenshot-2025-07-26-125111.png" alt="Screenshot-2025-07-26-125111" border="0"/>
+  <img src="https://i.ibb.co/j9k4L3V6/Screenshot-2025-07-26-125111.png" alt="Screenshot-2025-07-26-125111" border="0"/>
 </p>
 
 <h1 align="center">Sehrish Zarin</h1>
@@ -35,5 +35,5 @@ From Islamabad, I blend logic with design and aim to build products that are sim
 
 <!-- Optional footer quote or image -->
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/assets/footer.png" width="60%" />
+  <img src="https://i.ibb.co/7tZh5CnK/Screenshot-2025-07-26-125111.png" width="60%" />
 </p>
