@@ -1,9 +1,8 @@
 <!-- Optional banner image -->
 <p align="center">
-  <img src="https://i.ibb.co/j9k4L3V6/Screenshot-2025-07-26-125111.png" alt="Screenshot-2025-07-26-125111" border="0"/>
+<img src="https://i.ibb.co/ynJ9LSjn/Screenshot-2025-07-26-125111.png" alt="Screenshot-2025-07-26-125111" border="0">
 </p>
 
-<h1 align="center">Sehrish Zarin</h1>
 <h3 align="center">Full-Stack Developer · UX Designer</h3>
 
 <p align="center">
