@@ -1,11 +1,11 @@
-<!-- Optional banner image -->
-<p align="center">
-<img src="https://i.ibb.co/ynJ9LSjn/Screenshot-2025-07-26-125111.png" alt="Screenshot-2025-07-26-125111" border="0">
-</p>
+<div align="center" style="padding: 20px; border: 2px solid #00f0ff; border-radius: 10px; box-shadow: 0 0 15px #00f0ff, 0 0 30px #0040ff;">
 
-<h3 align="center">Full-Stack Developer · UX Designer</h3>
+<!-- Banner image -->
+<img src="https://i.ibb.co/ynJ9LSjn/Screenshot-2025-07-26-125111.png" alt="Banner" width="100%" />
 
-<p align="center">
+<h3>Full-Stack Developer · UX Designer</h3>
+
+<p>
   Passionate about building intuitive web experiences and thoughtful digital products.
 </p>
 
@@ -15,7 +15,7 @@
 
 - Frontend development with React & UI/UX in Figma  
 - Backend development with Node.js, Express, MongoDB  
-- Currently learning Python and exploring web hosting, AWS, Docker
+- Currently learning Python and exploring web hosting, AWS, Docker  
 - Focused on clean design and meaningful interactions  
 
 ---
@@ -32,7 +32,7 @@
 
 From Islamabad, I blend logic with design and aim to build products that are simple, accessible, and user-focused. Outside of code, you’ll find me sketching wireframes, reading about tech careers, or fixing a messy CSS layout.
 
-<!-- Optional footer quote or image -->
-<p align="center">
-  <img src="https://i.ibb.co/7tZh5CnK/Screenshot-2025-07-26-125111.png" width="100%" />
-</p>
+<!-- Footer image -->
+<img src="https://i.ibb.co/7tZh5CnK/Screenshot-2025-07-26-125111.png" width="100%" />
+
+</div>
