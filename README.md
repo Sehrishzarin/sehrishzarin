@@ -34,5 +34,5 @@ From Islamabad, I blend logic with design and aim to build products that are sim
 
 <!-- Optional footer quote or image -->
 <p align="center">
-  <img src="https://i.ibb.co/7tZh5CnK/Screenshot-2025-07-26-125111.png" width="60%" />
+  <img src="https://i.ibb.co/7tZh5CnK/Screenshot-2025-07-26-125111.png" width="100%" />
 </p>
