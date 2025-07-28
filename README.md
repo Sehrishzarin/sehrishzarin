@@ -13,7 +13,7 @@
 
 ### What I Do
 
-- Frontend development with React & UI/UX in Figma  
+- Frontend development with React, Next JS & UI/UX in Figma  
 - Backend development with Node.js, Express, MongoDB  
 - Currently learning Python and exploring web hosting, AWS, Docker
 - Focused on clean design and meaningful interactions  
